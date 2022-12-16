@@ -17,7 +17,8 @@
       -instructions & examples for use
       -add screenshot, create an asset/images folder in your repo (check phone)
       -run node.js on the index file, from there you will be prompted to answer questions that will create your readme
-    ![image](https://user-images.githubusercontent.com/114943155/208184582-f52e6bad-b86d-438c-8e65-7560ecb829f2.png)
+      
+ ![image](https://user-images.githubusercontent.com/114943155/208184582-f52e6bad-b86d-438c-8e65-7560ecb829f2.png)
 
   ## Credits
        -list of collaborators with links to their github profiles
